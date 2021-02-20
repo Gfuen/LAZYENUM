@@ -1,4 +1,4 @@
-# LAZYENUM
+# LAZYENUM (IN PROGRESS STAY TUNED!)
 The purpose of this script is to make Host enumeration more automated given simple user input.
 
 LAZYENUM 1.0 
